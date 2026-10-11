@@ -139,57 +139,44 @@ Welcome to the ultimate curated directory of **AI customer service automation pl
 
 
 
-- **[Klio Customer Support Agent](https://github.com/klio-tech/customer_support_agent)** [![Stars](https://img.shields.io/github/stars/klio-tech/customer_support_agent?style=social&color=white)](https://github.com/klio-tech/customer_support_agent/stargazers)  
-
-  **Open-source AI-powered customer support agent**, open-source. **Embeddable chat widget with single script tag** — Shadow DOM isolation, session persistence via localStorage, Markdown rendering, streaming responses, and identity passthrough . **Knowledge base with URL crawling (sitemap-aware) and document upload (PDF, TXT, CSV, JSON)** — documents chunked, embedded into 1536-dimension vectors, stored in PostgreSQL via pgvector, and retrieved via semantic similarity search . **Agent configuration via `agent.config.yaml`**: persona (name, system prompt, tone), model (300+ via OpenRouter, temperature), escalation rules (confidence threshold, keywords like "speak to human"), and widget branding (primary color, welcome message) . **Per-org agent config** allows each organization to customize prompts, model settings, escalation rules, and widget branding . **Webhooks for escalation, completion, and low-confidence events** . **The most complete open-source customer support agent with embeddable widget** . 🛠️
-
-
-
-- **[Chatwoot](https://github.com/chatwoot/chatwoot)** [![Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)  
-
-  **Open-source customer engagement suite**, MIT licensed. **25K+ GitHub stars** — **the most widely deployed open-source support desk** . **Omnichannel: website, email, WhatsApp, Facebook, Instagram, SMS, and more** . **Custom attributes for segmentation and automation triggers** . **Self-hosted deployment for full data control** . **The foundation for customer communication during support automation** . 💬
-
-
+- **[n8n](https://github.com/n8n-io/n8n)** [![Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)  
+  **Workflow automation with AI capabilities**, Sustainable Use License. **207K+ GitHub stars** — **the most popular open-source workflow automation platform** . **AI Workflow Builder with natural language prompts** . **400+ integrations** . **Self-hosted with unlimited executions** . **Serves as the vital "action execution layer" for AI customer service agents** . 🔄
 
 - **[Dify](https://github.com/langgenius/dify)** [![Stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers)  
+  **LLMOps platform with agentic workflows**, Apache-2.0 licensed. **158K+ GitHub stars** — **visual drag-and-drop workflow and AI agent builder** . **Built-in RAG pipelines, prompt orchestration, and autonomous agent nodes** . **100+ LLM providers supported** . **Self-hosted or cloud-managed deployment** . **The premier open-source application builder for automated customer support** . 🎨
 
-  **LLMOps platform with agentic workflows**, Apache-2.0 licensed. **157K+ GitHub stars** — **visual drag-and-drop workflow builder** . **Built-in RAG pipelines and agent nodes** . **100+ LLM providers** . **Self-hosted or Dify Cloud** . **The most complete open-source LLM app builder for support automation** . 🎨
+- **[Flowise](https://github.com/FlowiseAI/Flowise)** [![Stars](https://img.shields.io/github/FlowiseAI/Flowise?style=social&color=white)](https://github.com/FlowiseAI/Flowise/stargazers)  
+  **Open-source low-code UI for building customized LLM flows and agents**, Apache-2.0 licensed. **55K+ GitHub stars** — **drag-and-drop orchestration for LangChain and LlamaIndex** . **Easily embed support chatbots, RAG document-search agents, and customer assistant bots with one-click embeddable JavaScript widgets** . 🧩
 
+- **[Chatwoot](https://github.com/chatwoot/chatwoot)** [![Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)  
+  **Open-source customer engagement suite**, MIT licensed. **37K+ GitHub stars** — **the most widely deployed open-source customer support desk** . **Omnichannel inbox: website live chat, email, WhatsApp, Facebook, Instagram, SMS, and Telegram** . **Custom bot integrations, webhooks, and automation triggers** . **Self-hosted for complete data privacy** . 💬
 
-
-- **[n8n](https://github.com/n8n-io/n8n)** [![Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)  
-
-  **Workflow automation with AI capabilities**, Sustainable Use License. **176K+ GitHub stars** — **the most popular open-source automation platform** . **AI Workflow Builder with plain English prompts** . **400+ integrations** . **Self-hosted with unlimited executions** . **The "action layer" for AI support agents** . 🔄
-
-
-
-- **[Zammad](https://github.com/zammad/zammad)** [![Stars](https://img.shields.io/github/stars/zammad/zammad?style=social&color=white)](https://github.com/zammad/zammad/stargazers)  
-
-  **Open-source helpdesk and customer support system**, AGPL-3.0 licensed. **The most feature-complete open-source helpdesk** — ticket management, knowledge base, SLA management, and multi-channel support . **REST API and integrations** . **Self-hosted or Zammad Cloud** . 🎫
-
-
+- **[LiveKit](https://github.com/livekit/livekit)** [![Stars](https://img.shields.io/github/stars/livekit/livekit?style=social&color=white)](https://github.com/livekit/livekit/stargazers)  
+  **Real-time voice and video infrastructure for AI agents**, Apache-2.0 licensed. **21K+ GitHub stars** — **high-performance WebRTC platform powering ultra-low-latency real-time voice assistants and conversational AI agents for contact centers** . **Full support for OpenAI Realtime API and Gemini Multimodal Live API** . 🎙️
 
 - **[Rasa](https://github.com/RasaHQ/rasa)** [![Stars](https://img.shields.io/github/stars/RasaHQ/rasa?style=social&color=white)](https://github.com/RasaHQ/rasa/stargazers)  
-
-  **The leading open-source conversational AI framework**, Apache-2.0 licensed (core). **25M+ downloads** — **enterprise-grade on-premises deployment** . **Flows for business logic** . **CALM for LLM-powered assistants** . **Full data sovereignty** . 🏛️
-
-
+  **Conversational AI framework for enterprise customer care**, Apache-2.0 licensed (core). **21K+ GitHub stars** — **enterprise-grade on-premises conversational AI** . **CALM (Conversational AI with Language Models) architecture combines LLMs with deterministic enterprise business logic** . **Complete data sovereignty** . 🏛️
 
 - **[Botpress](https://github.com/botpress/botpress)** [![Stars](https://img.shields.io/github/stars/botpress/botpress?style=social&color=white)](https://github.com/botpress/botpress/stargazers)  
+  **Open-source chatbot building platform**, AGPL-3.0 licensed. **14K+ GitHub stars** — **visual conversation flow builder with native NLU** . **Multi-channel deployment across web widget, WhatsApp, Slack, and Telegram** . 🤖
 
-  **Open-source platform for building AI-powered chatbots**, MIT licensed. **Visual flow builder with built-in NLU** . **Multi-channel deployment** (web, WhatsApp, Slack, Telegram) . **Self-hosted option** . 🎨
+- **[Papercups](https://github.com/papercups-io/papercups)** [![Stars](https://img.shields.io/github/stars/papercups-io/papercups?style=social&color=white)](https://github.com/papercups-io/papercups/stargazers)  
+  **Open-source live customer chat widget and messaging platform**, MIT licensed. **6.1K+ GitHub stars** — **built in Elixir and React, offering lightweight customer chat widgets, Slack sync, email forwarding, and clean API endpoints for automated bot integrations** . 💬
 
+- **[Zammad](https://github.com/zammad/zammad)** [![Stars](https://img.shields.io/github/stars/zammad/zammad?style=social&color=white)](https://github.com/zammad/zammad/stargazers)  
+  **Open-source helpdesk and customer support ticketing system**, AGPL-3.0 licensed. **6.0K+ GitHub stars** — **feature-rich helpdesk system with multi-channel ticket management, knowledge base, SLA tracking, and REST APIs for automated ticket triage** . 🎫
 
-
-- **[OpenCloser](https://github.com/issacops/opencloser)** [![Stars](https://img.shields.io/github/stars/issacops/opencloser?style=social&color=white)](https://github.com/issacops/opencloser/stargazers)  
-
-  **Open-source AI SDR & AI sales platform**, MIT licensed. **The most complete open-source AI sales team** — **AI Sales Strategist generates ICP using SPIN & Challenger frameworks** . **AI Lead Researcher does autonomous lead hunting with scoring and qualification** . **AI Caller (SDR) is a real-time AI voice agent** powered by Google Gemini with **built-in Twilio phone lines, live transcription, sentiment analysis, objection detection, and power dialing** . **AI Sales Manager does post-call debrief with auto-generated follow-up emails and call analytics** . 🚀
-
-
+- **[FreeScout](https://github.com/freescout-helpdesk/freescout)** [![Stars](https://img.shields.io/github/stars/freescout-helpdesk/freescout?style=social&color=white)](https://github.com/freescout-helpdesk/freescout/stargazers)  
+  **Open-source shared inbox and help desk**, AGPL-3.0 licensed. **4.6K+ GitHub stars** — **lightweight, self-hosted Zendesk & Help Scout alternative built with PHP/Laravel** . **Community modules for AI summaries, auto-replies, and WhatsApp integration** . 📬
 
 - **[Zaturn](https://github.com/kdqed/zaturn)** [![Stars](https://img.shields.io/github/stars/kdqed/zaturn?style=social&color=white)](https://github.com/kdqed/zaturn/stargazers)  
+  **AI Co-Pilot for data analytics and business insights**, open-source. **75 GitHub stars** — **natural language interface to database intelligence without SQL or Python** . **Generates charts and visualizations from support database interactions** . 📊
 
-  **AI Co-Pilot for data analytics and business insights**, open-source. **Just chat with your data — no SQL, no Python** . **Connects to PostgreSQL, SQLite, DuckDB, MySQL, ClickHouse, SQL Server, CSV, and Parquet** . **Generates visualizations** . **Usable as MCP or web interface** . 🤖
+- **[Klio Customer Support Agent](https://github.com/klio-tech/customer_support_agent)** [![Stars](https://img.shields.io/github/stars/klio-tech/customer_support_agent?style=social&color=white)](https://github.com/klio-tech/customer_support_agent/stargazers)  
+  **Turnkey open-source AI customer support agent with embeddable widget**, MIT licensed. **Embeddable chat widget with single script tag** — Shadow DOM isolation, localStorage session persistence, streaming Markdown responses, and identity passthrough . **Knowledge base with sitemap URL crawling and document ingestion (PDF, TXT, CSV, JSON)** with pgvector semantic similarity search . **Configurable `agent.config.yaml` for system prompts, model selection, confidence-based escalation thresholds, and webhook notifications** . 🛠️
+
+- **[OpenCloser](https://github.com/issacops/opencloser)** [![Stars](https://img.shields.io/github/stars/issacops/opencloser?style=social&color=white)](https://github.com/issacops/opencloser/stargazers)  
+  **Open-source AI SDR & sales automation agent**, MIT licensed. **Autonomous lead qualification, real-time voice agent powered by Gemini, live transcription, objection detection, and post-call analytics** . 🚀
 
 
 
