@@ -185,31 +185,22 @@ Contributions are welcome! Follow these steps to submit new AI customer service 
 
 
 
-## 📊 Star History
-
-
+##  Star History
 
 [![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-AI-Customer-Service-Automation&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-AI-Customer-Service-Automation&type=date&legend=top-left)
 
-
-
 ---
-
-
 
 ## 🤝 Support & Sponsorship
 
+Thank you so much for visiting and using the **Awesome AI Customer Service Automation** directory! 🙌 
 
+Maintaining an up-to-date, transparent index of enterprise AI platforms, outcome-based pricing models, and open-source customer support software takes continuous research and community feedback. If this resource has helped your team, startup, or enterprise evaluate AI support tooling, please consider supporting the project:
 
-If you find this AI customer service automation repository useful, please consider supporting the project:
-
-
-
-- ⭐ **Star** this repository to increase visibility!
-
-- 🔀 **Fork** and share with fellow support leaders, CX professionals, and open-source advocates.
-
-- ☕ **Sponsor & Buy Me a Coffee**: Support ongoing open-source curation via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+- ⭐ **Star this repository** on GitHub to help others discover it!
+- 🔀 **Fork and share** with colleagues, CX leaders, engineering managers, and open-source advocates.
+- 📢 **Contribute**: Submit a pull request or suggest new projects to keep the community ahead.
+- ☕ **Buy Me a Coffee & Sponsor**: Support ongoing independent open-source curation directly through the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007). Every coffee fuels more in-depth reviews and benchmarking!
 
 
 
